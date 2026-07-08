@@ -55,3 +55,7 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Generated at runtime
+eval-report.md
+gateway-usage.jsonl
